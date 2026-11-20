@@ -1,0 +1,1 @@
+libpng-1.6.43 is based on the version libpng-1.6.35 which is extracted from FreeImage-3.18.0 and updated to the official release version(libpng-1.6.43).

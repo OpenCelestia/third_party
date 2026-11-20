@@ -1,0 +1,23 @@
+Independent JPEG Group (IJG) License
+====================================
+
+This software is based in part on the work of the Independent JPEG Group.
+
+libjpeg (release 9e) is free software. The full and authoritative license
+terms are stated in the "LEGAL ISSUES" section of the accompanying README
+file in this directory. In summary, the IJG license permits use, copying,
+modification, and (re)distribution — including for commercial purposes —
+provided that:
+
+  1. If any part of the source code is distributed, this README file must be
+     included, with the IJG copyright and conditions intact.
+  2. If only executable code is distributed, the accompanying documentation
+     must state that "this software is based in part on the work of the
+     Independent JPEG Group".
+  3. Permission for use is granted only for the accuracy stated; the authors
+     provide no warranty.
+
+Copyright (C) 1991-2022, Thomas G. Lane, Guido Vollbeding, and the
+Independent JPEG Group.
+
+See the file README (section "LEGAL ISSUES") for the complete license text.

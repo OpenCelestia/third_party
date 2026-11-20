@@ -1,0 +1,14 @@
+# Never commit in-tree configure / compile outputs under the vendor tree (build uses $(BUILD_DIR)/_vendor copy).
+jpeg-9e/Makefile
+jpeg-9e/config.status
+jpeg-9e/config.log
+jpeg-9e/libtool
+jpeg-9e/libjpeg.pc
+jpeg-9e/stamp-h1
+jpeg-9e/jconfig.h
+jpeg-9e/.deps/
+jpeg-9e/.libs/
+jpeg-9e/autom4te.cache/
+jpeg-9e/*.lo
+jpeg-9e/*.o
+jpeg-9e/*.la

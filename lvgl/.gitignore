@@ -1,0 +1,3 @@
+# Build-time leftover only; real config is project/<product>/include/lv_conf.h
+# (picked up via PROJECT_PATH/PROJECT_DIR + LV_CONF_INCLUDE_SIMPLE).
+lv_conf.h
